@@ -1,7 +1,12 @@
--bash: poem3.txt: командата не е открита
-Mariyan@stajantih:/home$ cat poem3.txt
 HTTP, the language of the web we know,
-
-
-
-
+Requests and responses, a graceful flow.
+Client-server dance, a constant show,
+Where information travels to and fro.
+From browser to server, the message sent,
+A web page rendered, time well spent.
+With headers and body, content is lent,
+A digital tapestry, elegantly sent.
+HTTPS adds security, a watchful eye,
+Protecting our data, as it passes by.
+In this digital world, so vast and high,
+HTTP empowers, reaching for the sky.

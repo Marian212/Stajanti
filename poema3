@@ -1,3 +1,9 @@
 -bash: poem3.txt: командата не е открита
 Mariyan@stajantih:/home$ cat poem3.txt
 HTTP, the language of the web we know,
+
+
+
+With headers and body, content is lent,
+A digital tapestry, elegantly sent.
+HTTPS adds security, a watchful eye,

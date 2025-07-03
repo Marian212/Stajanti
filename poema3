@@ -1,0 +1,3 @@
+-bash: poem3.txt: командата не е открита
+Mariyan@stajantih:/home$ cat poem3.txt
+HTTP, the language of the web we know,

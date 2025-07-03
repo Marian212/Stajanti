@@ -1,6 +1,7 @@
 HTTP, the language of the web we know,
 Requests and responses, a graceful flow.
 Client-server dance, a constant show,
+<<<<<<< HEAD
 Where information travels to and fro.
 From browser to server, the message sent,
 A web page rendered, time well spent.
@@ -10,3 +11,8 @@ HTTPS adds security, a watchful eye,
 Protecting our data, as it passes by.
 In this digital world, so vast and high,
 HTTP empowers, reaching for the sky.
+=======
+
+
+
+>>>>>>> 034f334f2c3988fb8221ff86d93b26c837cea130

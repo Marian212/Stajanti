@@ -1,4 +1,4 @@
-<h1>**Инсталиране на софтуер и настройки на сървър в Raspberry PI за cmprovision на CM4(Compute Module 4) чрез DHCP**<h1>
+<h3>**Инсталиране на софтуер и настройки на сървър в Raspberry PI за cmprovision на CM4(Compute Module 4) чрез DHCP**<h3>
 
 * Физически ресурси, които ще ви трябват:
 - Raspberry Pi 4
